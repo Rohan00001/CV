@@ -1,0 +1,42 @@
+body{
+    background-color: #EAF6F6;
+}
+hr{
+    width: 3%;
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: gray;
+}
+h1{
+    color: #66BFBF;
+}
+h2{
+    color: #5FD068;
+}
+h3{
+    color: #1363DF;
+}
+a{
+    color: #C70A80;
+    text-decoration: none;
+}
+a:hover{
+    color: #590696;
+    text-decoration: underline;
+}
+strong{
+    color: #646FD4;
+}
+p{
+    color: #947EC3;
+}
+label{
+    color: #2F8F9D;
+}
+input{
+    background-color: #CCF3EE;
+    color: #1363DF;
+}
+textarea{
+    background-color: #CCF3EE;
+}
